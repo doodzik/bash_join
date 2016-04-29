@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+DELIMITER="$1"; shift;
+
+function join { local IFS="$1"; shift; echo "$*"; }
+
+join $DELIMITER $@
