@@ -8,7 +8,7 @@ Join is a bash script to join an array with a delimiter
 
 ```bash
 $ brew tap doodzik/tap https://github.com/doodzik/tap
-$ brew instal rmapp
+$ brew instal bash_join
 ```
 
 ## USAGE
